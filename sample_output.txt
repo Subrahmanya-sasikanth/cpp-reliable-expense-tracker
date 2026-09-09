@@ -1,0 +1,97 @@
+
+==============================================
+  Reliable Command-Line Expense Tracker
+==============================================
+Track your expenses using a simple validated menu.
+
+------------- EXPENSE TRACKER -------------
+1. Add expense
+2. List expenses
+3. Category total
+4. Overall total
+5. Exit
+
+Choose an option: 
+==============================================
+  Add Expense
+==============================================
+Description: Category: Amount (INR): Expense added successfully with ID 1.
+
+------------- EXPENSE TRACKER -------------
+1. Add expense
+2. List expenses
+3. Category total
+4. Overall total
+5. Exit
+
+Choose an option: 
+==============================================
+  Add Expense
+==============================================
+Description: Category: Amount (INR): Expense added successfully with ID 2.
+
+------------- EXPENSE TRACKER -------------
+1. Add expense
+2. List expenses
+3. Category total
+4. Overall total
+5. Exit
+
+Choose an option: 
+==============================================
+  All Expenses
+==============================================
+ID    Description              Category                Amount
+-------------------------------------------------------------
+1     Lunch                    Food                    180.00
+2     Bus pass                 Travel                  500.00
+
+------------- EXPENSE TRACKER -------------
+1. Add expense
+2. List expenses
+3. Category total
+4. Overall total
+5. Exit
+
+Choose an option: 
+==============================================
+  Category Total
+==============================================
+Enter category: Total for Food: INR 180.00
+
+------------- EXPENSE TRACKER -------------
+1. Add expense
+2. List expenses
+3. Category total
+4. Overall total
+5. Exit
+
+Choose an option: 
+==============================================
+  Overall Total
+==============================================
+Total expenses: INR 680.00
+
+------------- EXPENSE TRACKER -------------
+1. Add expense
+2. List expenses
+3. Category total
+4. Overall total
+5. Exit
+
+Choose an option: 
+==============================================
+  Add Expense
+==============================================
+Description: Category: Amount (INR): Invalid amount. Enter a positive number such as 250.50.
+Amount (INR): Expense added successfully with ID 3.
+
+------------- EXPENSE TRACKER -------------
+1. Add expense
+2. List expenses
+3. Category total
+4. Overall total
+5. Exit
+
+Choose an option: 
+Thank you for using the Expense Tracker. Goodbye!
